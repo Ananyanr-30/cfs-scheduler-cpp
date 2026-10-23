@@ -1,2 +1,4 @@
 build/
-scheduler
+.vscode/
+process_schedule.csv
+/myenv
